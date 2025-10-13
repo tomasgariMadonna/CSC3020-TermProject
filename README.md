@@ -5,4 +5,7 @@ The Student Portfolio Tracker is a simple web application that allows students t
 Tomas Garzon - CSC_3020_00_01_WB_2026_10
 Placeholder section: Setup instructions
 
+Milestone 2: Added Docker setup. See Confluence for details.
+
+
 https://my-team-b7mowpnb.atlassian.net/wiki/x/CoAm
