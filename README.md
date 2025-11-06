@@ -10,4 +10,4 @@ Milestone 2: Added Docker setup. See Confluence for details.
 Milestone 3: Explored AI-assisted tools for project documentation and design (see Confluence for details).
 
 
-https://my-team-b7mowpnb.atlassian.net/wiki/x/CoAm
+https://my-team-b7mowpnb.atlassian.net/wiki/x/CgAoAQ
